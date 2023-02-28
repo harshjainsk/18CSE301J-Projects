@@ -8,11 +8,11 @@
 | 5 | SYED SHAHID ILHAN F (RA2011003010048) | [Link]() | 1 | |
 | 6 |	JOEL SANTOSH GEORGE (RA2011003010051) | [Link]() | 1 | |
 | 7 |	DEBAYAN ROY (RA2011003010059)	 | [Link]() | 1 | |
-| 8 |	SHIVAM SINGH (RA2011003010087) | [Link](https://shivam94353.github.io/18CSE301J_RA2011003010087.github.io/) | 1 |:white_check_mark: |
+| 8 |	SHIVAM SINGH (RA2011003010087) | [Link]() | 1 | |
 | 9 |	SREEKANT R NAIR (RA2011003010096) | [Link]() | 1 | |
 | 10 |	NIKHIL BURDAK (RA2011003010209) | [Link]() | 1 | |
 | 11 |	ANISHKA KESARIA (RA2011003010240) | [Link]() | 1 | |
-| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link](https://shikharagrawal2002.github.io/18CSE301J_RA2011003010249/) | 1 | :white_check_mark: |
+| 12 |	SHIKHAR AGRAWAL (RA2011003010249) | [Link]() | 1 | |
 | 13 |	ADITYA S (RA2011003010252) |  [Link]() | 1 | |
 | 14 |	ARYAN DUTTA (RA2011003010290) |  [Link]() | 1 | |
 | 15 |  YASH PRATAP SINGH (RA2011003010314) |  [Link]() | 1 | |
@@ -54,7 +54,7 @@
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link]() | 1 | |
 | 52 |	Vanshit Rawat (RA2011031010067) | [Link]() | 1 | |
 | 53 |	AMAN VERMA (RA2011032010001) | [Link]() | 1 | |
-| 54 |	NAVEED HYDER (RA2011032010002) | [Link](https://naveedhyder.github.io/18CSE301J_RA2011032010002/) | 1 | :white_check_mark: |
+| 54 |	NAVEED HYDER (RA2011032010002) | [Link]() | 1 | |
 | 55 |	ANJANAY KHARE (RA2011032010007) | [Link]() | 1 | |
 | 56 |	SAUMYA SAH (RA2011032010013) | [Link]() | 1 | |
 | 57 |	ANKIT RAJ (RA2011032010020)	 | [Link](https://ar4626.github.io/18CSE301J_RA2011032010020/) | 1 |  :white_check_mark:  |
@@ -92,7 +92,7 @@
 | 89 |	AKASH P S (RA2011026010003) | [Link]() | 2 | |
 | 90 |    ACHAL KAMBOJ (RA2011026010028) | [Link]() | 2 | |
 | 91 |	ANMOL AGARWAL (RA2011026010034) | [Link]() | 2 | |
-| 92 |	HARSH KUMAR SURESH KUMAR JAIN (RA2011026010141) | [Link]() | 2 | |
+| 92 |	HARSH KUMAR SURESH KUMAR JAIN (RA2011026010141) | [Link](https://harshjainsk.github.io/18CSE301J_RA2011026010141/) | 2 | :white_check_mark: |
 | 93 |	ANISH TUSHAR PARKHE (RA2011026010285) | [Link]() | 2 | |
 | 94 |	VAARSHITH N (RA2011026010303) | [Link]() | 2 | |
 | 95 |	JANGITI ADITYA (RA2011026010386) | [Link]() | 2 | |
